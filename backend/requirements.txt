@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+pandas
+numpy
+scikit-learn
+SQLAlchemy
+psycopg2-binary
+python-dotenv
